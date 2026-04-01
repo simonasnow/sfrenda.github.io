@@ -1,5 +1,5 @@
 ---
-title: Information Disorder Workshop (InDor)
+title: Simona Frenda (InDor)
 ---
 
 <p align="center">
